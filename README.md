@@ -21,4 +21,4 @@ Task 2b: Find and display the row that contains the model ‘Mazda RX4’.
 
 Task 2c: Determine the number of cylinders (cyl) for the car model ‘Camaro Z28’.
 ## Author:
-@Bru-coder - BruceGonzalvo-2ECEA - 2023184773
+@Bru-coder - BruceGonzalvo-3ECEA - 2023184773
